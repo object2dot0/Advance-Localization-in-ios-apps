@@ -1,0 +1,8 @@
+
+#define ENGLSIH_LANGUAGE 1
+#define CHINESE_LANGUAGE 2
+#define FRENCH_LANGUAGE 3
+
+
+
+

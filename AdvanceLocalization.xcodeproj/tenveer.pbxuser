@@ -1,0 +1,329 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* AdvanceLocalizationAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 299}}";
+			sepNavSelRange = "{82, 9}";
+			sepNavVisRange = "{0, 336}";
+		};
+	};
+	1D3623250D0F684500981E51 /* AdvanceLocalizationAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1040}}";
+			sepNavSelRange = "{82, 9}";
+			sepNavVisRange = "{0, 325}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* AdvanceLocalization */ = {
+		activeExec = 0;
+		executables = (
+			21DDFC6D136032CB001A80F3 /* AdvanceLocalization */,
+		);
+	};
+	21DDFC6D136032CB001A80F3 /* AdvanceLocalization */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AdvanceLocalization;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	21DDFC7D136032DD001A80F3 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	21DDFC7E136032DD001A80F3 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	21DDFC8013603657001A80F3 /* LocalizedText.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 299}}";
+			sepNavSelRange = "{65, 9}";
+			sepNavVisRange = "{0, 316}";
+		};
+	};
+	21DDFC8113603657001A80F3 /* LocalizedText.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 1170}}";
+			sepNavSelRange = "{65, 9}";
+			sepNavVisRange = "{0, 364}";
+		};
+	};
+	21DDFCC81360437D001A80F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AdvanceLocalizationAppDelegate.h */;
+		name = "AdvanceLocalizationAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 233;
+		rType = 0;
+		vrLen = 546;
+		vrLoc = 0;
+	};
+	21DDFD521360519D001A80F3 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {999, 565}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 224}";
+		};
+	};
+	21DDFD54136051DE001A80F3 /* fr */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {928, 565}}";
+			sepNavSelRange = "{112, 0}";
+			sepNavVisRange = "{0, 116}";
+		};
+	};
+	21DDFD55136051EE001A80F3 /* zh */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {928, 565}}";
+			sepNavSelRange = "{83, 0}";
+			sepNavVisRange = "{0, 87}";
+		};
+	};
+	21DDFD5613605257001A80F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 21DDFD521360519D001A80F3 /* English */;
+		name = "Localizable.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 224;
+		vrLoc = 0;
+	};
+	21DDFD5713605257001A80F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 21DDFD54136051DE001A80F3 /* fr */;
+		name = "Localizable.strings: 2";
+		rLen = 0;
+		rLoc = 112;
+		rType = 0;
+		vrLen = 116;
+		vrLoc = 0;
+	};
+	21DDFD5813605257001A80F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 21DDFD55136051EE001A80F3 /* zh */;
+		name = "Localizable.strings: 2";
+		rLen = 0;
+		rLoc = 83;
+		rType = 0;
+		vrLen = 87;
+		vrLoc = 0;
+	};
+	21DDFD5D13605257001A80F3 /* NSBundle.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSBundle.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSBundle.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {6452, 1703}}";
+			sepNavSelRange = "{6045, 42}";
+			sepNavVisRange = "{4659, 2055}";
+		};
+	};
+	21DDFD6013605357001A80F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 21DDFD5D13605257001A80F3 /* NSBundle.h */;
+		name = "NSBundle.h: 119";
+		rLen = 42;
+		rLoc = 6045;
+		rType = 0;
+		vrLen = 2055;
+		vrLoc = 4659;
+	};
+	21DDFD8C136055C8001A80F3 /* Common.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {928, 565}}";
+			sepNavSelRange = "{82, 0}";
+			sepNavVisRange = "{0, 85}";
+		};
+	};
+	21DDFD9C136056FF001A80F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AdvanceLocalizationAppDelegate.m */;
+		name = "AdvanceLocalizationAppDelegate.m: 11";
+		rLen = 0;
+		rLoc = 256;
+		rType = 0;
+		vrLen = 1691;
+		vrLoc = 0;
+	};
+	21DDFE6113606856001A80F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 21DDFD8C136055C8001A80F3 /* Common.h */;
+		name = "Common.h: 6";
+		rLen = 0;
+		rLoc = 82;
+		rType = 0;
+		vrLen = 85;
+		vrLoc = 0;
+	};
+	21DDFEA513607050001A80F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* AdvanceLocalizationViewController.h */;
+		name = "AdvanceLocalizationViewController.h: 23";
+		rLen = 33;
+		rLoc = 464;
+		rType = 0;
+		vrLen = 502;
+		vrLoc = 0;
+	};
+	21DDFEB0136070BC001A80F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 21DDFC8013603657001A80F3 /* LocalizedText.h */;
+		name = "LocalizedText.h: 14";
+		rLen = 0;
+		rLoc = 293;
+		rType = 0;
+		vrLen = 476;
+		vrLoc = 0;
+	};
+	21DDFEB1136070BC001A80F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AdvanceLocalizationViewController.m */;
+		name = "AdvanceLocalizationViewController.m: 93";
+		rLen = 0;
+		rLoc = 2071;
+		rType = 0;
+		vrLen = 776;
+		vrLoc = 1602;
+	};
+	21DDFECF13607172001A80F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 21DDFC8113603657001A80F3 /* LocalizedText.m */;
+		name = "LocalizedText.m: 5";
+		rLen = 0;
+		rLoc = 74;
+		rType = 0;
+		vrLen = 1268;
+		vrLoc = 0;
+	};
+	21DDFED013607172001A80F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		rLen = 9;
+		rLoc = 56;
+		rType = 0;
+	};
+	21DDFED413607411001A80F3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 16";
+		rLen = 0;
+		rLoc = 367;
+		rType = 0;
+		vrLen = 370;
+		vrLoc = 0;
+	};
+	28D7ACF60DDB3853001CB0EB /* AdvanceLocalizationViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 351}}";
+			sepNavSelRange = "{462, 33}";
+			sepNavVisRange = "{216, 282}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* AdvanceLocalizationViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1004, 1547}}";
+			sepNavSelRange = "{2015, 0}";
+			sepNavVisRange = "{1557, 300}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 21DDFC6D136032CB001A80F3 /* AdvanceLocalization */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* AdvanceLocalization */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* AdvanceLocalization */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 21DDFC7E136032DD001A80F3 /* Code sense */;
+		executables = (
+			21DDFC6D136032CB001A80F3 /* AdvanceLocalization */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					825,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 325071563;
+			PBXWorkspaceStateSaveDate = 325071563;
+		};
+		perUserProjectItems = {
+			21DDFCC81360437D001A80F3 /* PBXTextBookmark */ = 21DDFCC81360437D001A80F3 /* PBXTextBookmark */;
+			21DDFD5613605257001A80F3 /* PBXTextBookmark */ = 21DDFD5613605257001A80F3 /* PBXTextBookmark */;
+			21DDFD5713605257001A80F3 /* PBXTextBookmark */ = 21DDFD5713605257001A80F3 /* PBXTextBookmark */;
+			21DDFD5813605257001A80F3 /* PBXTextBookmark */ = 21DDFD5813605257001A80F3 /* PBXTextBookmark */;
+			21DDFD6013605357001A80F3 /* PBXTextBookmark */ = 21DDFD6013605357001A80F3 /* PBXTextBookmark */;
+			21DDFD9C136056FF001A80F3 /* PBXTextBookmark */ = 21DDFD9C136056FF001A80F3 /* PBXTextBookmark */;
+			21DDFE6113606856001A80F3 /* PBXTextBookmark */ = 21DDFE6113606856001A80F3 /* PBXTextBookmark */;
+			21DDFEA513607050001A80F3 /* PBXTextBookmark */ = 21DDFEA513607050001A80F3 /* PBXTextBookmark */;
+			21DDFEB0136070BC001A80F3 /* PBXTextBookmark */ = 21DDFEB0136070BC001A80F3 /* PBXTextBookmark */;
+			21DDFEB1136070BC001A80F3 /* PBXTextBookmark */ = 21DDFEB1136070BC001A80F3 /* PBXTextBookmark */;
+			21DDFECF13607172001A80F3 /* PBXTextBookmark */ = 21DDFECF13607172001A80F3 /* PBXTextBookmark */;
+			21DDFED013607172001A80F3 /* PBXTextBookmark */ = 21DDFED013607172001A80F3 /* PBXTextBookmark */;
+			21DDFED413607411001A80F3 /* PBXTextBookmark */ = 21DDFED413607411001A80F3 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 21DDFC7D136032DD001A80F3 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1003, 565}}";
+			sepNavSelRange = "{367, 0}";
+			sepNavVisRange = "{0, 370}";
+		};
+	};
+}
